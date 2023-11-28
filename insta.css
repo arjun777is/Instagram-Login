@@ -1,0 +1,194 @@
+.container{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.content{
+    
+    
+}
+.instagram{
+
+    background-color: white;
+    text-align: center;
+   
+   border: solid;
+   border-width: 1px;
+   border-color: rgb(229, 221, 221);
+   border-radius: 1px;
+   
+}
+.instagramtext{
+    
+   
+    cursor: pointer;
+}
+.username{
+    height: 27px;
+    width: 255px;
+
+}
+.password{
+    margin-top: 5px;
+    height: 27px;
+    width: 255px;
+
+}
+.loginbutton{
+    background-color: #4285f4;
+    border: none;
+    color: white;
+    border-radius: 6px;
+    width: 255px;
+    height:25px;
+    margin-top: 10px;
+}
+
+
+.or{
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #cbc7c7; 
+    line-height: 0.1em;
+    
+    margin-top: 20px;
+
+}
+.orline{
+    background: white;
+    padding: 10px;
+    
+}
+.facebooklogo{
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+}
+.facebooktext{
+    text-decoration: none;
+    cursor: pointer;
+    color: #385185;
+    font-family: tahoma,verdana,arial,sans-serif;
+}
+.forgotpassword{
+    text-decoration: none;
+    
+}
+.signup{
+   text-align: center;
+    border: solid;
+    border-width: 1px;
+    border-color: rgb(229, 221, 221);
+    border-radius: 1px;background-color: white;
+}
+.donthaveaccount{
+    
+    
+
+}
+.signuptext{
+   
+}
+.footer{
+    text-align: center;
+    
+}
+.googleplaylogo{
+    width: 100px;
+    height: 40px;
+    margin-left: -99px;
+}
+.microsoftlogo{
+    width: 100px;
+    height: 40px;
+    margin-right: -103px;
+
+}
+.lastsection{
+    margin-left: 125px;
+    text-decoration: none;
+    font-size: 15px;
+
+}
+.meta{
+    margin-left: -50px;
+    text-decoration: none;
+    color: grey
+    
+}
+.about{
+    margin-left: 10px;
+    text-decoration: none;
+    color: grey
+}
+.blog{
+    margin-left:10px ;
+    text-decoration: none;
+    color: grey
+}
+.jobs{
+    margin-left: 10px;
+    text-decoration: none;
+    color: grey
+}
+.help{
+    margin-left: 10px;
+    text-decoration: none;
+    color: grey
+}
+.api{
+    margin-left: 10px;
+    text-decoration: none;
+    color: grey
+}
+.privacy{
+    margin-left: 10px;
+    text-decoration: none;
+    color: grey
+}
+.terms{
+    margin-left: 10px;
+    text-decoration: none;
+    color: grey
+}
+.locations{
+    margin-left: 10px;
+    text-decoration: none;
+    color: grey
+}
+.instagramlite{
+margin-left: -60px;
+text-decoration: none;
+color: grey
+}
+.threads{
+    margin-left: 10px;
+    text-decoration: none;
+    color: grey
+}
+.contactuploading{
+    margin-left: 10px;
+    text-decoration: none;
+    color: grey
+}
+.metaverified{
+    margin-left: 10px;
+    text-decoration: none;
+    color: grey
+   
+}
+.bottomsection{
+    padding-left: 170px;
+    font-size: 15px;
+}
+.english{
+    color: grey
+}
+.dropdown{
+    width: 17px;
+    
+}
+.lastpara{
+    margin-left: 10px;
+    color: grey
+}
+
